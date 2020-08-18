@@ -9,3 +9,7 @@ Approaches for Problems:
     2. Iterate along the array in the direction right->left and build an array right.
 
     3. Build an output array as max(right[i], left[i + k - 1]) for i in range (0, n - k + 1).' `
+
+Needs Revision:
+* 123
+* 15
